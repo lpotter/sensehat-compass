@@ -22,5 +22,5 @@ HEADERS += \
     qsensehatfb.h \
     sensehatcompass.h
 
-target.path = bin
+target.path = /usr/bin
 INSTALLS += target
