@@ -21,3 +21,6 @@ SOURCES += main.cpp \
 HEADERS += \
     qsensehatfb.h \
     sensehatcompass.h
+
+target.path = bin
+INSTALLS += target
